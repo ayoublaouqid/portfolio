@@ -1,4 +1,4 @@
-# AYB — Google Sites Portfolio Kit
+# AYOUB LAOUQID — Google Sites Portfolio Kit
 ## What is included
 - `preview/index.html`: a responsive visual reference for the complete portfolio. Open it in a browser to preview the design.
 - `google_sites_content/website_copy.md`: editable page copy and section content.
