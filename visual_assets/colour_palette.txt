@@ -1,0 +1,17 @@
+AYB PORTFOLIO — VISUAL IDENTITY
+
+Deep navy       #14263D
+Warm white      #F7F7F4
+Slate grey      #687482
+Muted gold      #B49A68
+Light divider   #DFE3E6
+
+Suggested use:
+- Navy: hero/banner, footer, major headings
+- Warm white: page background
+- Slate grey: supporting text
+- Muted gold: small accents, labels, separators
+- Light divider: subtle borders
+
+Image direction:
+Use authentic, high-quality photographs of professional settings, public events, conferences, editorial workspaces and approved project outputs. Avoid generic stock photos where actual work samples are available.
